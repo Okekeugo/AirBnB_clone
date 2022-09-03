@@ -73,5 +73,3 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Michael Agbiaowei** - [maiempire](https://github.com/michaelagbiaowei)
-* **Mercy Kangor** - [###](https://github.com/Mkangor)
